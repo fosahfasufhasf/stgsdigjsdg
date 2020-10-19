@@ -1,3 +1,5 @@
+--last updated 10/19/2020
+
 game.Players.LocalPlayer.OsPlatform = "Project Anti Abusers"
 
 if not syn then return game:Shutdown()
@@ -7693,6 +7695,8 @@ game.Players.LocalPlayer.Chatted:connect(function(msg)
 			end
 		until i == 0
 	end
+end
+end
 end)
 
 for i,v in pairs(game.Players:GetPlayers()) do

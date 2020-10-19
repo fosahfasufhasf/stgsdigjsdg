@@ -24,5 +24,3 @@ else game.Players.LocalPlayer:Kick("You aren't whitelisted!")
 end
 else game.Players.LocalPlayer:Kick("it seems like your exploit isn't supported")
 end
-
-print("Works")
